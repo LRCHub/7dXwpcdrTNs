@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "木綿のハンカチーフ",
+  "base_artist": "Hiromi Ohta",
+  "createdAt": "2025-12-14T12:55:38.596504Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "木綿のハンカチーフ",
+      "artist": "椎名林檎・松崎ナオ",
+      "has_synced": false,
+      "path": "select/01_木綿のハンカチーフ_椎名林檎・松崎ナオ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "木綿のハンカチーフ",
+      "artist": "Ikimonogakari",
+      "has_synced": false,
+      "path": "select/02_木綿のハンカチーフ_Ikimonogakari.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "木綿のハンカチーフ",
+      "artist": "Shiina, Ringo",
+      "has_synced": true,
+      "path": "select/03_木綿のハンカチーフ_Shiina,_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "木綿のハンカチーフ",
+      "artist": "太田裕美",
+      "has_synced": true,
+      "path": "select/04_木綿のハンカチーフ_太田裕美.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "木綿のハンカチーフ",
+      "artist": "太田裕美",
+      "has_synced": true,
+      "path": "select/05_木綿のハンカチーフ_太田裕美.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "木綿のハンカチーフ",
+      "artist": "柴田 淳",
+      "has_synced": false,
+      "path": "select/06_木綿のハンカチーフ_柴田_淳.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "木綿のハンカチーフ /太田裕美",
+      "artist": "太田裕美",
+      "has_synced": true,
+      "path": "select/07_木綿のハンカチーフ__太田裕美_太田裕美.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "木綿のハンカチーフ - From THE FIRST TAKE",
+      "artist": "Ai Hashimoto",
+      "has_synced": true,
+      "path": "select/08_木綿のハンカチーフ_-_From_THE_FIRST_TAKE_Ai_Hashimoto.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "木綿のハンカチーフ",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/09_木綿のハンカチーフ_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "木綿のハンカチーフ - Momen no handkerchief",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/10_木綿のハンカチーフ_-_Momen_no_handkerchief_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "木綿のハンカチーフ",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/11_木綿のハンカチーフ_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "木綿のハンカチーフ",
+      "artist": "生物股长 (いきものがかり)",
+      "has_synced": true,
+      "path": "select/12_木綿のハンカチーフ_生物股长_(いきものがかり).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "木綿のハンカチーフ - ROMANCE mix",
+      "artist": "Hiroji Miyamoto",
+      "has_synced": false,
+      "path": "select/13_木綿のハンカチーフ_-_ROMANCE_mix_Hiroji_Miyamoto.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "木綿のハンカチーフ",
+      "artist": "Sheena Ringo, Nao Matsuzaki",
+      "has_synced": true,
+      "path": "select/14_木綿のハンカチーフ_Sheena_Ringo,_Nao_Matsuzaki.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "木綿のハンカチーフ - From THE FIRST TAKE",
+      "artist": "橋本愛",
+      "has_synced": true,
+      "path": "select/15_木綿のハンカチーフ_-_From_THE_FIRST_TAKE_橋本愛.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "木綿のハンカチーフ",
+      "artist": "Kinmokusei",
+      "has_synced": false,
+      "path": "select/16_木綿のハンカチーフ_Kinmokusei.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "木綿のハンカチーフ",
+      "artist": "太田 裕美",
+      "has_synced": false,
+      "path": "select/pl_01_木綿のハンカチーフ_太田_裕美.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "木綿のハンカチーフ",
+      "artist": "太田 裕美",
+      "has_synced": false,
+      "path": "select/pl_02_木綿のハンカチーフ_太田_裕美.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "木綿のハンカチーフ",
+      "artist": "太田 裕美",
+      "has_synced": false,
+      "path": "select/pl_03_木綿のハンカチーフ_太田_裕美.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "木綿のハンカチーフ",
+      "artist": "太田 裕美",
+      "has_synced": false,
+      "path": "select/pl_04_木綿のハンカチーフ_太田_裕美.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "木綿のハンカチーフ",
+      "artist": "太田 裕美",
+      "has_synced": false,
+      "path": "select/pl_05_木綿のハンカチーフ_太田_裕美.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "木綿のハンカチーフ",
+      "artist": "太田 裕美",
+      "has_synced": false,
+      "path": "select/pl_06_木綿のハンカチーフ_太田_裕美.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "木綿のハンカチーフ",
+      "artist": "太田 裕美",
+      "has_synced": false,
+      "path": "select/pl_07_木綿のハンカチーフ_太田_裕美.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "木綿のハンカチーフ",
+      "artist": "太田 裕美",
+      "has_synced": false,
+      "path": "select/pl_08_木綿のハンカチーフ_太田_裕美.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "木綿のハンカチーフ",
+      "artist": "太田 裕美",
+      "has_synced": false,
+      "path": "select/pl_09_木綿のハンカチーフ_太田_裕美.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "木綿のハンカチーフ",
+      "artist": "太田 裕美",
+      "has_synced": false,
+      "path": "select/pl_10_木綿のハンカチーフ_太田_裕美.txt"
+    }
+  ]
+}
